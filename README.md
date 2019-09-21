@@ -59,7 +59,7 @@ ___
 1. item 4
 
 <!-- Inline Code Block -->
-`<p>This is the inline code block.</p>`
+This  is `mukesh` here.
 
 <!-- Image -->
 
